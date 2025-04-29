@@ -5,7 +5,7 @@ Built with HTML, CSS, and JavaScript to showcase my projects, skills, and profes
 
 ## 🚀 Live Demo
 
-🔗 [Visit Portfolio][(https://imran23.netlify.app/)]
+🔗 [Visit Portfolio](https://imran23.netlify.app/)
 
 ## 📌 Features
 
@@ -17,10 +17,10 @@ Built with HTML, CSS, and JavaScript to showcase my projects, skills, and profes
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
-- Git & GitHub
+- HTML5  
+- CSS3  
+- JavaScript  
+- Git & GitHub  
 - Netlify
 
 ## 📂 Project Structure
