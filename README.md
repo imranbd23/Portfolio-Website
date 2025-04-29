@@ -30,7 +30,7 @@ Built with HTML, CSS, and JavaScript to showcase my projects, skills, and profes
 
 **Md. Abu Rayhan Imran**  
 📍 Dhaka, Bangladesh  
-📧 Email: imranbd23@gmail.com  
+📧 Email: aburayhan2550@gmail.com  
 🌐 [LinkedIn](https://linkedin.com/in/your-profile)  
 🧑‍💻 [GitHub](https://github.com/imranbd23)
 
