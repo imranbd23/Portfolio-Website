@@ -5,7 +5,7 @@ Built with HTML, CSS, and JavaScript to showcase my projects, skills, and profes
 
 ## 🚀 Live Demo
 
-🔗 [Visit Portfolio]([https://imranbd23.netlify.app](https://peppy-stroopwafel-6dd69a.netlify.app/)
+🔗 [Visit Portfolio][(https://peppy-stroopwafel-6dd69a.netlify.app/)]
 
 ## 📌 Features
 
